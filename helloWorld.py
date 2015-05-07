@@ -1,5 +1,1 @@
-def helloWorld():
-	print "Hello, World!"
-
-def supWorld():
-	print "Sup, World!"
+sdhjfl;asjdklf jasdkl; jkldsa; fjkdlsa; fjkdlsa; fjdksla;j
