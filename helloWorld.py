@@ -1,1 +1,5 @@
-sdhjfl;asjdklf jasdkl; jkldsa; fjkdlsa; fjkdlsa; fjdksla;j
+def helloWorld():
+	print "Hello, World!"
+
+def supWorld():
+	print "Sup, World!"
